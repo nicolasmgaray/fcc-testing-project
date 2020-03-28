@@ -1,4 +1,5 @@
-FCC Test Challengs Prototype 
-============================
+# FCC: Testing Project
 
-QA with mocha & chai
+Part of the FCC Infosec Certification challenges
+
+Hosted on Glitch: [https://fcc-testing-project.glitch.me/](https://fcc-testing-project.glitch.me/).
